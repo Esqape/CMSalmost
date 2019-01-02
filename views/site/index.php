@@ -123,7 +123,7 @@ $this->title = 'SCMA CMS';
                 <p>View all Posts in the system which consists of text,image and video content which is used to drive the Interactive Student Handbook.
                     </p>
 
-                <p><a class="btn btn-info" href="/../yii2test/basic/web/index.php/posts">View Content &raquo;</a></p>
+                <p><a class="btn btn-info" href="index.php/posts">View Content &raquo;</a></p>
             </div>
             <div class="col-lg-4">
                 <h2>Create Content</h2>
@@ -131,7 +131,7 @@ $this->title = 'SCMA CMS';
                 <p>Create new Posts to the system which consists of text,image and video content which is used to drive the Interactive Student Handbook.
                     </p>
 
-                <p><a class="btn btn-info" href="/../yii2test/basic/web/index.php/posts/create">Create Content &raquo;</a></p>
+                <p><a class="btn btn-info" href="index.php/posts/create">Create Content &raquo;</a></p>
             </div>
             <div class="col-lg-4">
                 <h2>User Account Details</h2>
